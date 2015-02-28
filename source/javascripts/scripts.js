@@ -1,2 +1,2 @@
-//= require_tree .
 //= require 'angular/angular.js'
+//= require 'app'
