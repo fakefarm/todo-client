@@ -1,3 +1,7 @@
-@import "bourbon";
-@import "base/base";
-@import "neat";
+@import 'normalize';
+@import 'bourbon';
+@import 'base/base';
+@import 'neat';
+@import 'modules/demo';
+@import 'modules/component';
+@import 'modules/text_input_effects';
